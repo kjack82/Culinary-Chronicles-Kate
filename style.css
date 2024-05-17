@@ -30,4 +30,17 @@ ul {
     font-size: 1.5rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: aliceblue;
+    border: 5px solid beige;
+}
+
+#row2-section1 {
+    text-align: centre;
+}
+
+#row3-section1 {
+    text-align: right;
+}
+
+img {
+border: 3px solid black;
 }
